@@ -7,7 +7,6 @@ A quick web scraper using fastify, request, and cheerio.
 - hit `localhost:3000/scrape`
 
 Scrapes images from https://lullabot.com by default.
-Does not scrape svgs, as those aren't supported in Neos (my first use case for this scraper).
 
 Specify a url with
 - `/scape?url=[your-url]`
