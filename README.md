@@ -18,7 +18,7 @@ Exclude results that contain particular strings
 
 ## Contributing
 The scraper is a fastify plugin found in `/plugins/scraper.js`.
-If you have any suggestions or feature requests, please open an [issue](/issues).
+If you have any suggestions or feature requests, please open an [issue](https://github.com/bitgridio/fastify-scraper/issues).
 
 ## Todo
 - add support for assets other than just images
